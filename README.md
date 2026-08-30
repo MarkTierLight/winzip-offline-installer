@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="WinZip interface" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/WinRAR_screenshot.png/1280px-WinRAR_screenshot.png" />
+<img width="2880" height="1620" alt="WinZip interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Adobe_Illustrator_screenshot.png/1280px-Adobe_Illustrator_screenshot.png" />
 </div>
 
 ---
